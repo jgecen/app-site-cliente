@@ -1,3 +1,8 @@
+## Development server
+
+Execute `ng serve` para abrir um server(client) dev em `http://localhost:4200/`. A aplicação vai ser carregada automaticamente quando alterar qualquer código fonte
+
+
 # AppSite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
